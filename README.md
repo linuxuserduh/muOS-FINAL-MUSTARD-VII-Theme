@@ -1,4 +1,4 @@
-Disclaimer: All GUI and art belong to SQUARE ENIX® and Reactor7 font was created by Caveras with FontStruct and is licensed under a Creative Commons Attribution Non-commercial Share Alike license.
+Disclaimer: All GUI, art, and sound belongs to SQUARE ENIX® and Reactor7 font was created by Caveras with FontStruct and is licensed under a Creative Commons Attribution Non-commercial Share Alike license.
 ## Screenshots
 <br>
 <img src="https://raw.githubusercontent.com/linuxuserduh/muOS-FINAL-MUSTARD-VII-Theme/refs/heads/main/screenshots/explorer.png" height="320px" alt="apps">
