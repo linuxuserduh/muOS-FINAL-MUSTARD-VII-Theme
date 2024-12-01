@@ -1,0 +1,10 @@
+1.1
+Made significant changes on GUIs including the use of static images
+Added helper icons to muxinfo and muxconfig
+Extended bar to fit all titles (Longest name is Advanced Settings)
+Clear GUI status and preview
+Changed party in muxapp (Cloud and Aerith)
+Updated screenshots
+
+1.0
+Initial Release
